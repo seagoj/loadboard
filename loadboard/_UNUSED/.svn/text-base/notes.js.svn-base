@@ -1,0 +1,42 @@
+
+	if (config.$ticker.get(0)._hoverstate=="over"){
+		setTimeout(function(){richhtmlticker.rotate(config)}, config.rotatespeed)
+	}
+	else{
+	
+	
+	
+	}
+	
+	
+	
+<div class='messagediv'>
+	<div class='loadA'>Load 1</div>
+	<div class='loadB'>Load 2</div>
+	<div class='loadA'>Load 3</div>
+	<div class='loadB'>Load 4</div>
+	<div class='loadA'>Load 5</div>
+	<div class='loadB'>Load 6</div>
+	<div class='loadA'>Load 7</div>
+	<div class='loadB'>Load 8</div>
+	<div class='loadA'>Load 9</div>
+	<div class='loadB'>Load 10</div>
+</div>
+<div class='messagediv'>
+	<div class='loadA'>Load 11</div>
+	<div class='loadB'>Load 12</div>
+	<div class='loadA'>Load 13</div>
+	<div class='loadB'>Load 14</div>
+	<div class='loadA'>Load 15</div>
+	<div class='loadB'>Load 16</div>
+	<div class='loadA'>Load 17</div>
+	<div class='loadB'>Load 18</div>
+	<div class='loadA'>Load 19</div>
+	<div class='loadB'>Load 20</div>
+</div>
+<div class='messagediv'>
+	<img class='map1' src='http://image.weather.com/images/sat/ussat_600x405.jpg' />
+	<img class='map2' src='http://image.weather.com/images/sat/canadasat_600x405.jpg' />
+	<img class='map1' src='http://image.weather.com/images/maps/current/curwx_600x405.jpg' />
+	<img class='map2' src='http://i.imwx.com/images/maps/special/severe_us_600x405.jpg' />
+</div>

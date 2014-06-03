@@ -1,0 +1,35 @@
+<--
+/* Liquid Layout */
+	#header {
+		float:left;
+		width: 100%;
+		margin-right: 1%;
+		text-align:center;
+		background-color: green;
+	}
+	.logo {
+		float: left;
+		margin-bottom: 10px;
+		margin-left: 1%;
+		margin-right: 1%;
+		/* background-color: red; */
+	}
+	#content {
+		float: left;
+		width: 100%;
+		margin-bottom: 10px;
+		border: solid #01209F;
+		overflow:hidden;
+		/* background-color:blue; */
+		/* margin-left: 1%; */
+	}
+	#footer {
+		clear: both;
+		width: 65%;
+		margin-bottom: 10px;
+		margin-left: 12%;
+		margin-right: 12%;
+		/* background-color:yellow; */
+	}
+/* end layout */
+-->

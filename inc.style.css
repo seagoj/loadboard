@@ -1,0 +1,56 @@
+	@import url('inc.layout.css');
+	
+	table {
+		border-collapse: collapse;
+		width: 100%;
+	}
+	td {
+		text-align: center;
+	}
+	td.colHead {
+		border-bottom: solid #01209F;
+	}
+	.err {
+		color: red;
+	}
+	.messagediv{
+		display: none;
+	}
+	.mapLeft {
+		float: left;
+	}
+	.mapRight {
+		float: right;
+	}
+	body{
+		color:01209F;
+		font-size:40;
+	}
+	tbody {
+		color:01209F;
+		/*font-family: monospace;*/
+		font-size:50;
+	}
+	img {
+		border-style: none;
+	}
+	.loadA {
+		font-weight: bold;
+		background-color: EDF0FA;
+		border: solid EDF0FA;
+	}
+	.loadB {
+		font-weight: bold;
+		background-color:FFFFFF;
+	}
+	.loadset {
+		display: none;
+	}
+	#titleBar {
+		font-weight: bold;
+		text-align: center;
+	}
+	#footer {
+		font-size: 20px;
+		text-align: center;
+	}
